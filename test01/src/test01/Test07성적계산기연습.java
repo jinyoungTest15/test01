@@ -1,6 +1,6 @@
 package test01;
 
-public class Test07성적계산기 {
+public class Test07성적계산기연습 {
 	public static void main(String[] args) {
 		//어떤 학생의 중간고사 성적이 다음과 같을 때 이 학생의 총 점수와 과목별 평균을 구하여 출력하세요.
 		//국어 - 75점
